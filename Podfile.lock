@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.7.1)
+  - BulletinBoard (1.3.0)
+  - DZNEmptyDataSet (1.8.1)
+  - IQKeyboardManagerSwift (5.0.8)
+  - Kingfisher (4.6.4)
+  - paper-onboarding (4.0.2)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BulletinBoard
+  - DZNEmptyDataSet
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - paper-onboarding
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  BulletinBoard: 23c9d98cac654fd484d76f2a0655669974e9bd9c
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  IQKeyboardManagerSwift: 2e7dc7f98c111458c1ea2b373f893e8cf95e2b97
+  Kingfisher: 68498a706e46c2a050b0c9572f100e5db407f6e0
+  paper-onboarding: e6e2778c4e8de8db1d798bb7e3b4922e91fb7f99
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 602324fd83176ed0ab425fd3734f69c3b409e174
+
+COCOAPODS: 1.4.0
